@@ -1,0 +1,55 @@
+
+h1 {
+    color: green;
+    font-family: cursive;
+ }
+
+#titulo2 {
+    color: greenyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Clase en css*/
+
+.negrilla{
+    font-weight: bold;
+}
+
+#cabecera{
+    /*background-color: aliceblue;*/
+    width: 100vw;
+    height: 35vh;
+    overflow: hidden;
+}
+
+#conTexto{
+    /*background-color: aqua;*/
+    width: 50%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    padding-top: 60px;
+}
+
+#conImagen{
+    /*background-color: brown;*/
+    width: 50%;
+    height: 100%;
+    float: right;
+    
+}
+#tituloCabecera{
+    font-size: 3rem;
+    
+}
+
+#subtitulo{
+    font-size: 2rem;
+}
+
+table , tr ,td, th{
+    border: 1px solid red;
+}
+table{
+    width: 50%;
+}
